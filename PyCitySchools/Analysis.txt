@@ -1,0 +1,15 @@
+Written Report that summarises the analysis and draws two correct conclusions or comparisons from the calculations:
+
+Using the school data provided, we looked at a range of metrics to analyse local school performance. Based on highest and lowest performing schools by location, pass rates itemised by school, year level and for all standard topics. School and student budgets were determined as was school student capacity size.
+
+Based on our analysis, some key points to make are:
+Schools with a size of 2000 or less students have much higher overall passing rates than those with student populations above 2000. A variance of 10 to 15% is noted.
+Average maths and reading scores appear to remain consistent across year levels when grouped by school and this remains true when filtered by school type (Government and Independant). There is no major improvement in scores from any school.
+It would appear schools smaller in size (under 1,000 students) have a higher average and passing rate than those with capacity over 2,000
+
+
+
+
+
+
+
